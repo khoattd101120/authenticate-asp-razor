@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "authenticate-asp-razor", "authenticate-asp-razor.csproj", "{AC542AA4-EED2-4520-989C-851B9F7A743C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC542AA4-EED2-4520-989C-851B9F7A743C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC542AA4-EED2-4520-989C-851B9F7A743C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC542AA4-EED2-4520-989C-851B9F7A743C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC542AA4-EED2-4520-989C-851B9F7A743C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9626026-03E0-4D48-A1AB-32B06F7839D8}
+	EndGlobalSection
+EndGlobal
